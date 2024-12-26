@@ -82,10 +82,15 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
+## Personal
+
+Birth date: 19 February 1976
+Citizenship: Germany
+Martial status: married, 1 child
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2024 -->
 
 
