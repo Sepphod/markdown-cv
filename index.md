@@ -89,7 +89,7 @@ Citizenship: Germany
 Marital status: married, 1 child  
 
 
-### Footer
+###
 
 Last updated: December 2024
 
