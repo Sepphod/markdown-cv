@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sebastian Hoffmann's CV
 ---
-# Isaac Newton
+# Sebastian Hoffmann
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
