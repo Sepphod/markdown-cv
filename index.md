@@ -84,9 +84,9 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 ## Personal
 
-Birth date: 19 February 1976
-Citizenship: Germany
-Martial status: married, 1 child
+Birth date: 19 February 1976  
+Citizenship: Germany  
+Martial status: married, 1 child  
 
 
 <!-- ### Footer
